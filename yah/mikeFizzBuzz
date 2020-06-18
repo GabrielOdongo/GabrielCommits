@@ -1,0 +1,6 @@
+For (var n = 1; n < 5;n++){
+if(n < 3) console.log(n);
+else if (n == 3) console.log("Fizz");
+else if (n > 3) console.log(n);
+else (n = 5) console.log("Buzz") 
+}
